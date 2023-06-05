@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Oswald&display=swap');
 * {
     box-sizing: border-box;
-    /* border: 1px solid red; */
 }
 
 body {
@@ -72,7 +71,6 @@ body {
     font-family: Oswald, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: 700;
-    /* line-height: 44px; */
     color: #D978AC;
     text-transform: uppercase;
 }
